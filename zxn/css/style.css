@@ -86,14 +86,14 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-	background:url(../images/a.jpg)no-repeat center 0px;
+	background:url(https://cdn.jsdelivr.net/gh/johnzon520/cdn@master/zxn/images/a.jpg)no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
 	position: relative;
 }
 .banner-info{
-	background: url(../images/dott.png)repeat 0px 0px;
+	background: url(https://cdn.jsdelivr.net/gh/johnzon520/cdn@master/zxn/images/dott.png)repeat 0px 0px;
 	padding: 6em 0;
 }
 .header-left img {
@@ -707,7 +707,7 @@ h2.resp-accordion {
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/move-up.png") no-repeat 0px 0px;
+	background: url("https://cdn.jsdelivr.net/gh/johnzon520/cdn@master/zxn/images/move-up.png") no-repeat 0px 0px;
 	z-index:999;
 }
 #toTopHover {
