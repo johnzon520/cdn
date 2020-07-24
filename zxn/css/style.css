@@ -405,7 +405,7 @@ background: #eee;
     -ms-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
-    padding: 0.8em 2em;
+    padding: 0.8em 4em;
     font-weight: 400;
 	position:relative;
 }
